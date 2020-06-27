@@ -1,0 +1,4 @@
+clear
+make
+./main "/Users/klian/OneDrive - Walmart Inc/project/load-builder/" 12438 2>&1 | tee inst12438.log
+
